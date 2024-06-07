@@ -8,3 +8,4 @@
 * halo mass, 
 * morphology,
 * ring galaxies
+#### see details/records by clicking wiki.  
